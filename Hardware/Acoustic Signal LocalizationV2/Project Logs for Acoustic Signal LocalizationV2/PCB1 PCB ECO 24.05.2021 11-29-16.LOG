@@ -1,0 +1,98 @@
+Removed Pin From Net: NetName=+12 Pin=U1-4
+Removed Pin From Net: NetName=NetP5_1 Pin=U1-8
+Removed Pin From Net: NetName=NetC6_2 Pin=U1-9
+Removed Pin From Net: NetName=NetC11_2 Pin=U1-10
+Removed Pin From Net: NetName=NetR10_1 Pin=U1-12
+Removed Pin From Net: NetName=NetC4_2 Pin=U1-13
+Removed Pin From Net: NetName=NetC6_1 Pin=U1-14
+Removed Pin From Net: NetName=NetC11_1 Pin=U2-1
+Removed Pin From Net: NetName=NetC5_2 Pin=U2-2
+Removed Pin From Net: NetName=NetR8_1 Pin=U2-3
+Removed Pin From Net: NetName=NetR6_1 Pin=U2-5
+Removed Pin From Net: NetName=NetC10_2 Pin=U2-6
+Removed Pin From Net: NetName=NetC12_1 Pin=U2-7
+Removed Pin From Net: NetName=NetC10_1 Pin=U2-8
+Removed Pin From Net: NetName=NetC10_1 Pin=U2-9
+Removed Pin From Net: NetName=NetC15_2 Pin=U2-10
+Removed Pin From Net: NetName=+12 Pin=U2-11
+Removed Pin From Net: NetName=NetC11_2 Pin=U2-12
+Removed Pin From Net: NetName=NetC12_2 Pin=U2-13
+Removed Pin From Net: NetName=NetP5_2 Pin=U2-14
+Change Component Footprint: Designator=U1 Old Footprint=ONSC-SOIC-14-751A-03_V New Footprint=N0014A
+Change Component Footprint: Designator=U2 Old Footprint=ONSC-SOIC-14-751A-03_V New Footprint=N0014A
+Change Component Comment : Designator=U1 Old Comment=LM324DR2G New Comment=LM324N
+Change Component Comment : Designator=U2 Old Comment=LM324DR2G New Comment=LM324N
+Change Component Designator: OldDesignator=U3 NewDesignator=U4
+Change Managed Component Library Link : Designator=U1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=0FC8FD37-E6C6-4580-B8AA-A98540883E00 New ItemGUID=465C4173-FFEA-4D78-A68B-23232D97D69E Old RevisionGUID=F79DCE8E-A75B-481E-9C31-54FD87EF545D New RevisionGUID=DEE53F9A-7A90-4A95-A775-955C47D6BB30
+Change Managed Component Library Link : Designator=U2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=0FC8FD37-E6C6-4580-B8AA-A98540883E00 New ItemGUID=465C4173-FFEA-4D78-A68B-23232D97D69E Old RevisionGUID=F79DCE8E-A75B-481E-9C31-54FD87EF545D New RevisionGUID=DEE53F9A-7A90-4A95-A775-955C47D6BB30
+Change component parameters: Designator = "U1" ("U1"); Footprint = "ONSC-SOIC-14-751A-03_V"; UniqueID = "\VKAAALHO" ("\VKAAALHO")
+Change component parameters (AddParameter): Name = "Code_JEDEC"; Value = "MS-001-AA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Code_JEITA"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Code_IPC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=LM324&fileType=pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CompType"; Value = "Amplifiers"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "High-Reliability"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "N0014A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "MDIP, .750 x .250 x.130in, 14 Lead, .100in Pitch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageTopMarking"; Value = "NSUZXYYTTE#*LM324N"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PinCount"; Value = "14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PowerWise"; Value = "N"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "N"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U2" ("U2"); Footprint = "ONSC-SOIC-14-751A-03_V"; UniqueID = "\NPFANQLJ" ("\NPFANQLJ")
+Change component parameters (AddParameter): Name = "Code_JEDEC"; Value = "MS-001-AA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Code_JEITA"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Code_IPC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=LM324&fileType=pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CompType"; Value = "Amplifiers"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "High-Reliability"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "N0014A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "MDIP, .750 x .250 x.130in, 14 Lead, .100in Pitch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageTopMarking"; Value = "NSUZXYYTTE#*LM324N"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PinCount"; Value = "14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PowerWise"; Value = "N"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "N"; VariantName = "[No Variations]"
+Added Component: Designator=U3(N0014A)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-001-AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEITA"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_IPC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=LM324&fileType=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompType"; Value = "Amplifiers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "High-Reliability"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "N0014A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "MDIP, .750 x .250 x.130in, 14 Lead, .100in Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageTopMarking"; Value = "NSUZXYYTTE#*LM324N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = "14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PowerWise"; Value = "N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "N"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=-12 Pin=U1-4
+Added Pin To Net: NetName=NetC10_1 Pin=U1-8
+Added Pin To Net: NetName=NetC10_1 Pin=U1-9
+Added Pin To Net: NetName=NetC15_2 Pin=U1-10
+Added Pin To Net: NetName=NetC6_1 Pin=U2-1
+Added Pin To Net: NetName=NetC4_2 Pin=U2-2
+Added Pin To Net: NetName=NetR10_1 Pin=U2-3
+Added Pin To Net: NetName=NetR8_1 Pin=U2-5
+Added Pin To Net: NetName=NetC5_2 Pin=U2-6
+Added Pin To Net: NetName=NetC11_1 Pin=U2-7
+Added Pin To Net: NetName=NetC12_1 Pin=U2-8
+Added Pin To Net: NetName=NetC10_2 Pin=U2-9
+Added Pin To Net: NetName=NetR6_1 Pin=U2-10
+Added Pin To Net: NetName=-12 Pin=U2-11
+Added Pin To Net: NetName=NetP5_1 Pin=U3-1
+Added Pin To Net: NetName=NetC6_2 Pin=U3-2
+Added Pin To Net: NetName=NetC11_2 Pin=U3-3
+Added Pin To Net: NetName=+12 Pin=U3-4
+Added Pin To Net: NetName=NetC11_2 Pin=U3-5
+Added Pin To Net: NetName=NetC12_2 Pin=U3-6
+Added Pin To Net: NetName=NetP5_2 Pin=U3-7
+Added Pin To Net: NetName=-12 Pin=U3-11
+Added Member To Class: ClassName=Acoustic Signal Localization Schematic Member=Component U4 TLE2426ID

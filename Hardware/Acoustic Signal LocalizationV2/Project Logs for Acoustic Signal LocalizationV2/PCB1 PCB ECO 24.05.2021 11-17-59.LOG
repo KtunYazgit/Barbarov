@@ -1,0 +1,13 @@
+Added Pin To Net: NetName=NetC4_1 Pin=R1-1
+Added Pin To Net: NetName=NetC5_1 Pin=R17-1
+Added Pin To Net: NetName=NetC10_1 Pin=R26-1
+Added Pin To Net: NetName=NetC4_1 Pin=U1-1
+Added Pin To Net: NetName=NetC4_1 Pin=U1-2
+Added Pin To Net: NetName=+12 Pin=U1-4
+Added Pin To Net: NetName=NetC5_1 Pin=U1-6
+Added Pin To Net: NetName=NetC5_1 Pin=U1-7
+Added Pin To Net: NetName=+12 Pin=U1-11
+Added Pin To Net: NetName=+12 Pin=U2-4
+Added Pin To Net: NetName=NetC10_1 Pin=U2-8
+Added Pin To Net: NetName=NetC10_1 Pin=U2-9
+Added Pin To Net: NetName=+12 Pin=U2-11
