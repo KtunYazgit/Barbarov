@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=FeedBack Pin=IC1-4
+Added Pin To Net: NetName=12vFeedBack Pin=R1-1
+Added Pin To Net: NetName=12vFeedBack Pin=R3-2
+Added Pin To Net: NetName=12vFeedBack Pin=IC1-4
+Added Net: Name=12vFeedBack
+Added Room: Name=barbarov_guc_dagitim_karti
