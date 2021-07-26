@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=Net* Pin=R1-1
+Added Net: Name=Net*
+Added Room: Name=Leak Sensor Schematic

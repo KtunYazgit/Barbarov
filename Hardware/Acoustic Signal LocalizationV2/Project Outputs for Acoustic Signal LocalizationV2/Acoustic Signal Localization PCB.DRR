@@ -1,0 +1,17 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Acoustic Signal Localization PCB.PcbDoc   23.07.2021  17:41:18
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Acoustic Signal Localization PCB.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      28mil (0.711mm)                                           Round             6         PTH        0.00inch (0.00mm)
+T2      28mil (0.711mm)                                           Round             96        PTH        0.00inch (0.00mm)
+T3      35mil (0.9mm)                                             Round             11        PTH        0.00inch (0.00mm)
+T4      197mil (5mm)                                              Round             4         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              117
+
+Total Processing Time (hh:mm:ss) : 00:00:00

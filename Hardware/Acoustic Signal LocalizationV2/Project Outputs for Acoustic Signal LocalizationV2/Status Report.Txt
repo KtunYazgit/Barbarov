@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Acoustic Signal LocalizationV2.PrjPcb]
+   Generated File[Acoustic Signal Localization PCB.TXT]
+   Generated File[Acoustic Signal Localization PCB.LDP]
+   Generated File[Acoustic Signal Localization PCB.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 17:41:18 On 23.07.2021

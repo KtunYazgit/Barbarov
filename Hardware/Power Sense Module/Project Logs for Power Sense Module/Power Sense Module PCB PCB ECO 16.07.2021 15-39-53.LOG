@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=+5 Pin=P1-1
+Removed Pin From Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=NetU1_5 Pin=U1-5
+Added Net: Name=NetU1_5
+Added Pin To Net: NetName=NetU1_7 Pin=U1-7
+Added Net: Name=NetU1_7
+Added Room: Name=Power Sense Module SCH

@@ -1,0 +1,15 @@
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Added Pin To Net: NetName=NetR5_2 Pin=U1-1
+Added Pin To Net: NetName=NetP1_3 Pin=P1-3
+Added Pin To Net: NetName=NetP1_3 Pin=U1-7
+Added Net: Name=NetP1_3
+Added Pin To Net: NetName=NetP1_4 Pin=P1-4
+Added Pin To Net: NetName=NetP1_4 Pin=U1-5
+Added Net: Name=NetP1_4
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=NetR9_1 Pin=U1-2
+Added Net: Name=NetR9_1
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=NetR10_1 Pin=U1-3
+Added Net: Name=NetR10_1
+Added Room: Name=Power Sense Module SCH

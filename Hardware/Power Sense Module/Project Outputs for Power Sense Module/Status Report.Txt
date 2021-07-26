@@ -1,0 +1,24 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Power Sense Module.PrjPcb]
+   Generated File[Power Sense Module PCB.GTO]
+   Generated File[Power Sense Module PCB.GTP]
+   Generated File[Power Sense Module PCB.GTS]
+   Generated File[Power Sense Module PCB.GTL]
+   Generated File[Power Sense Module PCB.GBL]
+   Generated File[Power Sense Module PCB.GBS]
+   Generated File[Power Sense Module PCB.GBP]
+   Generated File[Power Sense Module PCB.GM1]
+   Generated File[Power Sense Module PCB.GM13]
+   Generated File[Power Sense Module PCB.GM15]
+   Generated File[Power Sense Module PCB.GPT]
+   Generated File[Power Sense Module PCB.GPB]
+   Generated File[Power Sense Module PCB.RUL]
+   Generated File[Power Sense Module PCB.EXTREP]
+   Generated File[Power Sense Module PCB.REP]
+
+
+Files Generated   : 15
+Documents Printed : 0
+
+Finished Output Generation At 11:19:28 On 23.07.2021

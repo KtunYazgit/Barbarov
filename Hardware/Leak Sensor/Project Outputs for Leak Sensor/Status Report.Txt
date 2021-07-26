@@ -1,0 +1,24 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Leak Sensor.PrjPcb]
+   Generated File[Leak Sensor PCB.GTO]
+   Generated File[Leak Sensor PCB.GTP]
+   Generated File[Leak Sensor PCB.GTS]
+   Generated File[Leak Sensor PCB.GTL]
+   Generated File[Leak Sensor PCB.GBL]
+   Generated File[Leak Sensor PCB.GBS]
+   Generated File[Leak Sensor PCB.GBO]
+   Generated File[Leak Sensor PCB.GM1]
+   Generated File[Leak Sensor PCB.GM13]
+   Generated File[Leak Sensor PCB.GM15]
+   Generated File[Leak Sensor PCB.GPT]
+   Generated File[Leak Sensor PCB.GPB]
+   Generated File[Leak Sensor PCB.RUL]
+   Generated File[Leak Sensor PCB.EXTREP]
+   Generated File[Leak Sensor PCB.REP]
+
+
+Files Generated   : 15
+Documents Printed : 0
+
+Finished Output Generation At 12:03:34 On 23.07.2021

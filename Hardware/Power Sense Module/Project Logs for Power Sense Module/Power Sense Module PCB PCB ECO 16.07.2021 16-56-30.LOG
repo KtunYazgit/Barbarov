@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=P1 NewDesignator=P?
+Added Member To Class: ClassName=Power Sense Module SCH Member=Component R4 10 kOhms
+Added Member To Class: ClassName=Power Sense Module SCH Member=Component R5 10 kOhms
+Added Member To Class: ClassName=Power Sense Module SCH Member=Component R6 100 kOhms
+Added Room: Name=Power Sense Module SCH
