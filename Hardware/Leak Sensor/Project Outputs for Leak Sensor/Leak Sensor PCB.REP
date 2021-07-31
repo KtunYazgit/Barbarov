@@ -2,35 +2,6 @@
 FileName = Leak Sensor PCB.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Overlay
-      File : Leak Sensor PCB.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : Leak Sensor PCB.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-*************************************************************
-
-*************************************************************
 Generating : Mechanical 15
       File : Leak Sensor PCB.GM15
 
@@ -38,8 +9,8 @@ Generating : Mechanical 15
 
 
 Used DCodes :
-    D29
-    D30
+    D31
+    D32
 *************************************************************
 
 *************************************************************
@@ -50,7 +21,7 @@ Generating : Mechanical 13
 
 
 Used DCodes :
-    D29
+    D31
 *************************************************************
 
 *************************************************************
@@ -62,6 +33,38 @@ Generating : Mechanical 1
 
 Used DCodes :
     D10
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Leak Sensor PCB.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Leak Sensor PCB.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
 *************************************************************
 
 *************************************************************
@@ -83,6 +86,7 @@ Used DCodes :
     D18
     D19
     D20
+    D21
 *************************************************************
 
 *************************************************************
@@ -124,50 +128,13 @@ Generating : Top Pad Master
 
 Used DCodes :
     D13
-    D22
     D23
     D24
     D25
     D26
     D27
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : Leak Sensor PCB.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-*************************************************************
-
-*************************************************************
-Generating : Bottom Pad Master
-      File : Leak Sensor PCB.GPB
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
+    D28
+    D29
 *************************************************************
 
 *************************************************************
@@ -181,7 +148,6 @@ Generating : Top Layer
 
 Used DCodes :
     D13
-    D21
     D22
     D23
     D24
@@ -189,5 +155,46 @@ Used DCodes :
     D26
     D27
     D28
+    D29
+    D30
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Leak Sensor PCB.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : Leak Sensor PCB.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
 *************************************************************
 
