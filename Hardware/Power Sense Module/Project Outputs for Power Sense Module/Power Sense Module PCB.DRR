@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Power Sense Module PCB.PcbDoc   31.07.2021  13:54:57
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Power Sense Module PCB-RoundHoles.TXT
+ASCII SlotHoles File : Power Sense Module PCB-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      24mil (0.6mm)                                             Slot              2         PTH        0.00inch (0.00mm)
+T2      28mil (0.711mm)                                           Round             10        PTH        0.00inch (0.00mm)
+T3      33mil (0.85mm)                                            Round             2         PTH        0.00inch (0.00mm)
+T4      35mil (0.9mm)                                             Round             4         PTH        0.00inch (0.00mm)
+T5      118mil (3mm)                                              Round             2         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              20
+
+Total Processing Time (hh:mm:ss) : 00:00:00
