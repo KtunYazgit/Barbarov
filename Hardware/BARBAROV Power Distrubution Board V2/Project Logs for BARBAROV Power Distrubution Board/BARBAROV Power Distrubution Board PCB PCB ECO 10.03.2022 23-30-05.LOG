@@ -1,0 +1,16 @@
+Added Component: Designator=P1(ESC_SOLDER_PAD)
+Added Component: Designator=P2(ESC_SOLDER_PAD)
+Added Component: Designator=P3(ESC_SOLDER_PAD)
+Added Pin To Net: NetName=VBAT Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=VBAT Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=VBAT Pin=P3-1
+Added Pin To Net: NetName=GND Pin=P3-2
+Added Member To Class: ClassName=BARBAROV Power Distrubution Board Member=Component P1 ESC_PAD
+Added Member To Class: ClassName=BARBAROV Power Distrubution Board Member=Component P2 ESC_PAD
+Added Member To Class: ClassName=BARBAROV Power Distrubution Board Member=Component P3 ESC_PAD
+Added Member To Class: ClassName=BARBAROV Power Distrubution Board Member=Component P4 ESC_PAD
+Added Member To Class: ClassName=BARBAROV Power Distrubution Board Member=Component P5 ESC_PAD
+Added Member To Class: ClassName=BARBAROV Power Distrubution Board Member=Component P6 ESC_PAD
+Added Room: Name=BARBAROV Power Distrubution Board

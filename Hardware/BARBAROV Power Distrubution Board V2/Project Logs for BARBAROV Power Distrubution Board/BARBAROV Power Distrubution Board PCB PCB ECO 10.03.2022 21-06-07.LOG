@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=C7-1
+Removed Pin From Net: NetName=5V/3A Pin=C7-2
+Removed Pin From Net: NetName=GND Pin=C8-1
+Removed Pin From Net: NetName=GND Pin=J12-2
+Removed Pin From Net: NetName=GND Pin=J13-2
+Removed Pin From Net: NetName=5V/3A Pin=U3-1
+Removed Pin From Net: NetName=GND Pin=U3-2
+Removed Pin From Net: NetName=GND Pin=U3-4
+Removed Member From Class: ClassName=BARBAROV Power Distrubution Board Member=C7
+Removed Member From Class: ClassName=BARBAROV Power Distrubution Board Member=C8
+Removed Member From Class: ClassName=BARBAROV Power Distrubution Board Member=J12
+Removed Member From Class: ClassName=BARBAROV Power Distrubution Board Member=J13
+Removed Member From Class: ClassName=BARBAROV Power Distrubution Board Member=U3
+Added Room: Name=BARBAROV Power Distrubution Board

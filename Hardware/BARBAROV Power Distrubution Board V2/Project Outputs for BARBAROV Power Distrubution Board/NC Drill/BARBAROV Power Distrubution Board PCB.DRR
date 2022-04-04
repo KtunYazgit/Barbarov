@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: BARBAROV Power Distrubution Board PCB.PcbDoc   4.04.2022  17:24:34
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : BARBAROV Power Distrubution Board PCB.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      20mil (0.5mm)                                             Round             2         PTH        0.36inch (9.17mm)
+T2      30mil (0.75mm)                                            Round             54        PTH        7.28inch (185.00mm)
+T3      39mil (1mm)                                               Round             144       PTH        48.34inch (1227.82mm)
+T4      47mil (1.2mm)                                             Round             20        PTH        6.66inch (169.16mm)
+T5      118mil (3mm)                                              Round             4         PTH        11.65inch (296.00mm)
+T6      177mil (4.5mm)                                            Round             2         PTH        0.28inch (7.20mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              226
+
+Total Processing Time (hh:mm:ss) : 00:00:00

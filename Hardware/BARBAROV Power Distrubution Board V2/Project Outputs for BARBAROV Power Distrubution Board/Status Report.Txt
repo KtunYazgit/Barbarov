@@ -1,0 +1,16 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 17:24:34 On 4.04.2022
+
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [BARBAROV Power Distrubution Board PCB.PcbDoc]
+   Generated File[BARBAROV Power Distrubution Board PCB.TXT]
+   Generated File[BARBAROV Power Distrubution Board PCB.LDP]
+   Generated File[BARBAROV Power Distrubution Board PCB.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 17:24:34 On 4.04.2022

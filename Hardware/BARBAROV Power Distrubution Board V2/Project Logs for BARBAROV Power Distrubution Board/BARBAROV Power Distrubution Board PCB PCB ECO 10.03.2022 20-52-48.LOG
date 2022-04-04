@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=C5-1
+Removed Pin From Net: NetName=VBAT Pin=C5-2
+Removed Pin From Net: NetName=GND Pin=U2-5
+Added Pin To Net: NetName=VBAT Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Room: Name=BARBAROV Power Distrubution Board
