@@ -1,0 +1,2 @@
+Change Component Comment : Designator=C6 Old Comment=* New Comment=CAP_470uF_20%_16V_SMD_ALUM
+Change Component Library : Designator=C6 Old Library=Main Component Library.IntLib New Library=Main Schematic Library.SchLib
